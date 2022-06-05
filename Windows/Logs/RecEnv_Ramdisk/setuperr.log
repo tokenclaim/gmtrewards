@@ -1,0 +1,7 @@
+﻿2021-12-02 05:35:33, Error                        CBootMgrLog::CreateInstance() failed. 0x00000002[gle=0x00000002]
+2021-12-02 05:35:33, Error                        Failed to check OS architecture. 0x00000490[gle=0x00000002]
+2021-12-02 05:35:33, Error                        WinReGetConfigEx failed. Error: 0x00000003[gle=0x00000003]
+2021-12-02 05:35:33, Error                        CRecoveryToolAction->Init() failed. Error: 0x00000003[gle=0x00000003]
+2021-12-02 05:35:33, Error                        WinReGetConfigEx failed. Error: 0x00000003[gle=0x00000003]
+2021-12-02 05:35:33, Error                        CRecoveryToolAction->Init() failed. Error: 0x00000003[gle=0x00000003]
+2021-12-02 05:35:35, Error                        Invalid path specified
